@@ -1,0 +1,26 @@
+Write your ideas here:
+
+1. Inputs
+-Business information
+-Airtel Money / Mpamba transaction history
+-Utility payment history
+-Monthly income and expenses
+-Business age
+-Savings (if available)
+
+2. Processing
+-Analyze transaction history
+-Evaluate payment consistency
+-Analyze cash flow
+-Measure financial discipline
+-Generate a Business Financial Reputation Score
+-Determine loan eligibility and risk level
+
+3. Outputs
+-Financial Reputation Score
+-Risk Level (Low/Medium/High)
+-Loan eligibility recommendation
+-Suggested loan amount
+-Financial insights and recommendations
+
+Don't forget to use the document attached when prompting
