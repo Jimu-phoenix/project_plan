@@ -1,26 +1,382 @@
-Write your ideas here:
+========================================================
+BUSINESS FINANCIAL REPUTATION SYSTEM
+========================================================
 
-1. Inputs
--Business information
--Airtel Money / Mpamba transaction history
--Utility payment history
--Monthly income and expenses
--Business age
--Savings (if available)
+VISION
+--------------------------------------------------------
+Transform the platform from a simple credit scoring app into
+Malawi's Financial Reputation Infrastructure   a trusted digital
+reputation layer that lets SMEs prove financial credibility to
+banks, MFIs, SACCOs, mobile money lenders, suppliers, insurers,
+and investors using verifiable financial evidence rather than
+collateral alone.
 
-2. Processing
--Analyze transaction history
--Evaluate payment consistency
--Analyze cash flow
--Measure financial discipline
--Generate a Business Financial Reputation Score
--Determine loan eligibility and risk level
+This does not replace the Credit Reference Bureau (CRB). It
+complements it by building financial identities for businesses
+that currently have little or no formal credit history.
 
-3. Outputs
--Financial Reputation Score
--Risk Level (Low/Medium/High)
--Loan eligibility recommendation
--Suggested loan amount
--Financial insights and recommendations
 
-Don't forget to use the document attached when prompting
+CORE OBJECTIVES
+--------------------------------------------------------
+- Help informal businesses become bankable
+- Reduce lending risk for financial institutions
+- Improve financial inclusion
+- Increase transparency between businesses and lenders
+- Encourage good financial behaviour through measurable reputation growth
+- Create a portable business reputation that follows the business
+  across different financial institutions
+
+
+========================================================
+1. INPUTS
+========================================================
+
+Business Profile
+- Business registration information
+- Business licence
+- Tax registration (if available)
+- Business age
+- Business location verification
+- Industry classification
+- Number of employees
+- Business ownership information
+
+Financial Data
+- Airtel Money transactions
+- Mpamba transactions
+- Bank transaction history
+- Daily sales records
+- Monthly income and expenses / revenue
+- Cash flow history
+- Savings history
+- Existing loans and repayment history
+
+Payment Behaviour (Utility & Bills)
+- ESCOM (electricity) payments
+- Water bills
+- Internet bills
+- Rent payments
+- Supplier payments
+- Employee salary payments
+
+Trade Reputation
+- Supplier references
+- Customer references
+- Previous lenders
+- Business partners
+- Delivery reliability
+- Payment reliability
+
+Digital Activity
+- QR payments
+- POS transactions
+- Mobile banking usage
+- Online business activity
+
+
+========================================================
+2. PROCESSING (AI ENGINE)
+========================================================
+
+Rather than producing a single score, the AI builds a complete
+financial profile by analysing:
+
+- Cash flow stability
+- Revenue consistency and growth trends
+- Payment discipline
+- Savings behaviour
+- Loan repayment behaviour
+- Trade references (supplier/customer)
+- Financial resilience
+- Fraud indicators
+- Seasonal business patterns
+- Business maturity
+- Digital adoption
+- Customer and supplier reliability
+
+--------------------------------------------------------
+2.1 Explainable AI
+--------------------------------------------------------
+The AI never produces an unexplained decision.
+
+Instead of:
+    "Loan Approved"
+
+It explains:
+
+    Approved because:
+    - Business has operated continuously for four years
+    - Utility payments are consistently made on time
+    - Monthly revenue has increased by 18%
+    - Suppliers rate the business highly
+    - No suspicious transaction behaviour detected
+
+    Risk flagged:
+    - Seasonal revenue reduction expected in January
+
+--------------------------------------------------------
+2.2 Business Trust Index (Multi-Category Scoring)
+--------------------------------------------------------
+Instead of one overall score, display individual category scores:
+
+- Financial Stability
+- Cash Flow Strength
+- Revenue Growth
+- Payment Discipline
+- Savings Behaviour
+- Business Longevity
+- Supplier Trust
+- Customer Trust
+- Digital Adoption
+- Fraud Risk
+- Business Maturity
+
+--------------------------------------------------------
+2.3 Reputation Timeline
+--------------------------------------------------------
+Tracks historical reputation growth over time, e.g.:
+
+    2023 -> 620
+    2024 -> 710
+    2025 -> 810
+    2026 -> 845
+
+Lets lenders see whether a business is improving or declining.
+
+--------------------------------------------------------
+2.4 Reputation Events
+--------------------------------------------------------
+Every financial action affects the score, e.g.:
+
+- Utility bill paid
+- Supplier payment completed
+- Customer payment received
+- Loan repaid early
+- Business licence renewed
+- Tax return submitted
+- Monthly savings goal achieved
+- Business milestone reached
+
+--------------------------------------------------------
+2.5 Reputation Growth Coaching
+--------------------------------------------------------
+The system teaches businesses how to improve their score, e.g.:
+
+    Your score decreased by 18 points because utility
+    payments were delayed.
+
+    Recommendations:
+    - Enable automatic bill payments
+    - Increase monthly savings
+    - Reduce unnecessary expenses
+    - Improve supplier payment consistency
+
+    Expected improvement: +30 points within three months
+
+--------------------------------------------------------
+2.6 Financial Reputation Simulator
+--------------------------------------------------------
+Businesses can simulate future decisions, e.g.:
+
+- "What happens if I apply for a MWK 10 million loan?"
+- "What happens if I hire five more employees?"
+- "What happens if revenue decreases by 20%?"
+- "What happens if I increase monthly savings?"
+
+The AI predicts the effect on:
+- Reputation score
+- Loan eligibility
+- Financial risk
+- Cash flow
+- Business growth
+
+--------------------------------------------------------
+2.7 Business Financial Twin
+--------------------------------------------------------
+A digital "twin" of the business that predicts future (not just
+current) performance:
+
+- Future cash flow
+- Future reputation
+- Loan repayment capability
+- Business growth
+- Financial risks
+- Seasonal challenges
+- Expansion readiness
+
+--------------------------------------------------------
+2.8 Trade Reference Network
+--------------------------------------------------------
+Businesses request verified references from suppliers, customers,
+and partners. Each reference evaluates:
+
+- Payment reliability
+- Product quality
+- Communication
+- Trustworthiness
+- Business relationship
+
+Reference weight scales with the reputation of the person giving
+it   trusted businesses create stronger references than unknown ones.
+
+--------------------------------------------------------
+2.9 Business Verification Levels (Badges)
+--------------------------------------------------------
+    Bronze    - Business Exists
+    Silver    - Business Verified
+    Gold      - Financial Records Verified
+    Platinum  - Trusted by Financial Institutions
+    Diamond   - Outstanding Financial Reputation
+
+--------------------------------------------------------
+2.10 Reputation Decay
+--------------------------------------------------------
+Reputation is not static. If a business becomes inactive or stops
+showing good financial behaviour, its score gradually declines.
+Recent behaviour carries more weight than older behaviour.
+
+--------------------------------------------------------
+2.11 Fraud Detection
+--------------------------------------------------------
+The AI continuously monitors for unusual behaviour, e.g.:
+
+- Sudden unexplained revenue spikes
+- Fake transaction patterns
+- Circular payments
+- Multiple businesses using identical information
+- Suspicious account activity
+- Rapid changes in transaction behaviour
+
+Flagged cases are sent for lender review.
+
+--------------------------------------------------------
+2.12 Industry Benchmarking
+--------------------------------------------------------
+Compares a business against similar businesses, e.g.:
+
+    Your Business Trust Index:      845
+    Average Grocery Store:          720
+    Top 10%:                        905
+
+--------------------------------------------------------
+2.13 Confidence Score
+--------------------------------------------------------
+Every AI prediction includes a confidence level, e.g.:
+
+    Business Trust Index:        845
+    Prediction Confidence:       96%
+    Data Sources Used:           12 Verified Sources
+
+--------------------------------------------------------
+2.14 Loan Readiness Assessment
+--------------------------------------------------------
+Instead of a binary Eligible / Not Eligible, show readiness, e.g.:
+
+    Current Loan Readiness: 82%
+
+    Requirements to reach Premium Loan Tier:
+    - Increase monthly savings
+    - Maintain timely utility payments for three more months
+    - Obtain two additional verified supplier references
+
+
+========================================================
+3. OUTPUTS
+========================================================
+
+- Financial Reputation Score
+- Risk Level (Low / Medium / High)
+- Loan eligibility recommendation
+- Suggested loan amount
+- Financial insights and recommendations
+
+
+========================================================
+4. DASHBOARDS
+========================================================
+
+--------------------------------------------------------
+4.1 Business (Owner) Dashboard
+--------------------------------------------------------
+- Business Trust Index
+- Reputation Timeline
+- Financial Health Score
+- Cash Flow Analysis
+- Revenue Trends
+- Expense Analysis
+- Savings Progress
+- Loan Readiness
+- Active Loan Applications
+- AI Financial Coach
+- Financial Twin Predictions
+- Fraud Alerts
+- Business Benchmarks
+
+--------------------------------------------------------
+4.2 Lender Dashboard
+--------------------------------------------------------
+- Business Search
+- Business Trust Report
+- AI Credit Analysis
+- Reputation Timeline
+- Risk Assessment
+- Cash Flow Analysis
+- Fraud Risk
+- Trade References
+- Business Verification Status
+- Confidence Score
+- Loan Recommendation
+- Portfolio Risk Analytics
+
+
+========================================================
+5. APIS FOR FINANCIAL INSTITUTIONS
+========================================================
+
+Secure, permission-based APIs for institutions such as:
+- National Bank of Malawi
+- Microfinance Institutions (MFIs)
+- SACCOs
+- Mobile Money Lenders
+- Insurance Companies
+
+Example endpoints:
+- Get Business Reputation
+- Get Credit Analysis
+- Get Financial Health
+- Get Reputation Timeline
+- Get Fraud Risk
+- Get Loan Recommendation
+- Verify Business Identity
+
+
+========================================================
+6. PRIVACY AND CONSENT
+========================================================
+
+Every data source requires explicit consent from the business
+owner. The business owner can:
+
+- View all connected data sources
+- Grant or revoke access
+- See who accessed their profile
+- Challenge incorrect information
+- Download their reputation report
+
+
+========================================================
+7. LONG-TERM VISION
+========================================================
+
+The platform evolves into Malawi's national Business Financial
+Infrastructure   a trusted reputation layer used by banks, MFIs,
+mobile money providers, insurers, suppliers, investors, and
+government agencies.
+
+Instead of businesses repeatedly proving their credibility to
+every institution, they build one portable, continuously updated
+Financial Reputation that grows with their business and unlocks
+access to finance, partnerships, and new opportunities.
+
+This positions the platform as foundational digital infrastructure
+for financial inclusion   not just another loan-scoring application.
